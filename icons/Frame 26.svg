@@ -1,0 +1,21 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="21.5" y="6" width="2" height="6" rx="1" fill="white"/>
+<rect x="21.5" y="39" width="2" height="6" rx="1" fill="white"/>
+<rect x="8.00439" y="12.4185" width="2" height="6" rx="1" transform="rotate(-45 8.00439 12.4185)" fill="white"/>
+<rect x="31.3389" y="35.7531" width="2" height="6" rx="1" transform="rotate(-45 31.3389 35.7531)" fill="white"/>
+<rect x="35.5815" y="11.0043" width="2" height="6" rx="1" transform="rotate(45 35.5815 11.0043)" fill="white"/>
+<rect x="12.2471" y="34.3388" width="2" height="6" rx="1" transform="rotate(45 12.2471 34.3388)" fill="white"/>
+<rect x="35.5815" y="11.0043" width="2" height="6" rx="1" transform="rotate(45 35.5815 11.0043)" fill="white"/>
+<rect x="12.2471" y="34.3388" width="2" height="6" rx="1" transform="rotate(45 12.2471 34.3388)" fill="white"/>
+<rect x="3" y="26.5" width="2" height="6" rx="1" transform="rotate(-90 3 26.5)" fill="white"/>
+<rect x="36" y="26.5" width="2" height="6" rx="1" transform="rotate(-90 36 26.5)" fill="white"/>
+<rect x="12.5" y="15" width="20" height="20" rx="10" fill="#13141D"/>
+<rect x="12.5" y="15" width="20" height="20" rx="10" fill="white" fill-opacity="0.5"/>
+<rect x="12.5" y="15" width="20" height="20" rx="10" stroke="white" stroke-width="2"/>
+<path d="M53.7333 46.5C58.4948 46.5 62.4667 42.8662 62.4667 38.25C62.4667 33.6338 58.4948 30 53.7333 30C48.9718 30 45 33.6338 45 38.25C45 42.8662 48.9718 46.5 53.7333 46.5Z" fill="#13141D" stroke="white" stroke-width="2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50.061 45H37.5V47.1951H54.3293V46.0976L50.061 45Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50.256 42.1219H37.6951V45.5366H54.5243V43.8293L50.256 42.1219Z" fill="#13141D"/>
+<circle cx="37.0854" cy="31.2683" r="15.2683" fill="#13141D" stroke="white" stroke-width="2"/>
+<circle cx="22.939" cy="37.8536" r="8.43902" fill="#13141D" stroke="white" stroke-width="2"/>
+<path d="M36.6317 37.8287C36.8557 37.3248 37.3554 37 37.9069 37C38.9026 37 39.5779 38.013 39.1949 38.9321L37.8131 42.2485C37.6642 42.606 37.9268 43 38.3142 43C39.1037 43 39.6291 43.816 39.3024 44.5347L38.0331 47.3272C37.7834 47.8764 38.1849 48.5 38.7882 48.5C39.4813 48.5 39.8688 49.2995 39.4393 49.8435L33 58L35.5 51.5H34.553C33.8257 51.5 33.3417 50.7483 33.6426 50.0862L34.9804 47.1432C35.2237 46.6078 34.8323 46 34.2442 46C33.6591 46 33.2677 45.3977 33.5053 44.863L36.6317 37.8287Z" fill="#A7A7A7"/>
+</svg>

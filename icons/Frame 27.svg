@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="49.2562" cy="32.2073" r="9.18292" fill="#1C1E2A" stroke="white" stroke-width="2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.6952 39.5853H30.8782V42H49.3904V40.7926L44.6952 39.5853Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.2316 36.6341H31.4146V40.3902H49.9267V38.5121L45.2316 36.6341Z" fill="#1C1E2A"/>
+<circle cx="30.7439" cy="24.6951" r="16.6951" fill="#1C1E2A" stroke="white" stroke-width="2"/>
+<circle cx="15.1829" cy="31.939" r="9.18292" fill="#1C1E2A" stroke="white" stroke-width="2"/>
+<rect x="27.5356" y="45.0503" width="2" height="12" rx="1" transform="rotate(45 27.5356 45.0503)" fill="white"/>
+<rect x="19.0503" y="46.4645" width="2" height="12" rx="1" transform="rotate(-45 19.0503 46.4645)" fill="white"/>
+<rect x="18" y="51" width="2" height="12" rx="1" transform="rotate(-90 18 51)" fill="white"/>
+<rect x="25" y="56" width="2" height="12" rx="1" transform="rotate(180 25 56)" fill="white"/>
+<rect x="33" y="46" width="14" height="2" rx="1" fill="white"/>
+<rect x="33" y="51" width="10" height="2" rx="1" fill="white"/>
+</svg>
