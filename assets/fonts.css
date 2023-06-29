@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Samsung Sharp Sans';
+    /* src: url(../fonts/Cabin-Bold.ttf); */
+    src: url(Samsung-Sharp-Sans.otf);
+    font-weight: 700;
+    font-style: normal;
+}
